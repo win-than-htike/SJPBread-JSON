@@ -1,0 +1,47 @@
+[
+    {
+        "name" : "Chocolate Loaf",
+        "image" : "",
+        "price" : "5000 MMK"
+    },
+    {
+        "name" : "Mini Chocolate Loaf",
+        "image" : "",
+        "price" : "3000 MMK"
+    },
+    {
+        "name" : "Red Bean Soft Bun",
+        "image" : "",
+        "price" : "800 MMK"
+    },
+    {
+        "name" : "Sausage Cheese Bun",
+        "image" : "",
+        "price" : "1200 MMK"
+    },
+    {
+        "name" : "Charcoal Loaf",
+        "image" : "",
+        "price" : "5000 MMK"
+    },
+    {
+        "name" : "Butter Bun",
+        "image" : "",
+        "price" : "600 MMK"
+    },
+    {
+        "name" : "Fluppy Milk Loaf",
+        "image" : "",
+        "price" : "4000 MMK"
+    },
+    {
+        "name" : "Mini Fluppy Milk Loaf",
+        "image" : "",
+        "price" : "2500 MMK"
+    },
+    {
+        "name" : "Rainbow Bagel with Cream Cheese",
+        "image" : "",
+        "price" : "3000 MMK"
+    }
+]
